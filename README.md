@@ -1,7 +1,10 @@
 # Trading desk results
 
-Paper-trading results of an AI trading desk: a team of separate bots (data steward, trend and reversion analysts, portfolio manager, risk officer) deciding on NSE 5-minute bars.
+Paper-trading results and research of a team of AI agents on eight large NSE shares: live paper books against simply
+holding all eight, ten years of research on the eight shares, the signals that carry information across the NIFTY 500,
+the market's state, and the trading lessons the models are taught after checking them on the data.
 
 **View the results:** https://keerthanmuniraja.github.io/trading-desk-results/
 
-Research only. Historical replay on delayed Yahoo data. There are no real orders, no money and no trading authority. A few weeks of one stock cannot establish skill.
+Research only: no money, no real orders. Paper results count new days only; research on past data screens ideas and
+cannot prove them. Nothing here is advice.
